@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Neighbourhood_name": "Hope",
-        "school_district": "Fraser - Cascade",
+        "school_district": "Hope",
         "total_screened_2022_2023": "75",
         "with_cavities_2022_2023": "27",
         "percent_with_cavities_2022_2023": "36.00%",
@@ -3157,7 +3157,7 @@
       "type": "Feature",
       "properties": {
         "Neighbourhood_name": "Agassiz - Harrison",
-        "school_district": "Fraser - Cascade",
+        "school_district": "Agassiz - Harrison",
         "total_screened_2022_2023": "82",
         "with_cavities_2022_2023": "33",
         "percent_with_cavities_2022_2023": "40.20%",
